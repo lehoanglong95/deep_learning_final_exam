@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29dcb98f-bffb-49bb-b4b8-dba4db559a55" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dW1pFBkETeTkq34FG4PzvAJFwJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/yolo_v2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/output_videos/yolo_v2" />
+      <recent name="$PROJECT_DIR$/results_imgs/yolo_v3_darknet" />
+      <recent name="$PROJECT_DIR$/results_imgs/yolo_v2" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/yolo_v2" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29dcb98f-bffb-49bb-b4b8-dba4db559a55" name="Default Changelist" comment="" />
+      <created>1592526215984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592526215984</updated>
+      <workItem from="1592526217180" duration="2012000" />
+      <workItem from="1592530468721" duration="14576000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2940" y="537" width="1021" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592548282103">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2940" y="537" width="1021" height="390" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1592548282103" />
+    <state x="3016" y="490" width="424" height="484" key="FileChooserDialogImpl" timestamp="1592526249440">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3016" y="490" width="424" height="484" key="FileChooserDialogImpl/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1592526249440" />
+    <state x="2722" y="367" key="SettingsEditor" timestamp="1592530756396">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2722" y="367" key="SettingsEditor/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1592530756396" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1592549105833">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1592549105833" />
+    <state x="2889" y="560" key="com.intellij.ide.util.TipDialog" timestamp="1592530473022">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2889" y="560" key="com.intellij.ide.util.TipDialog/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1592530473022" />
+    <state x="2896" y="347" width="672" height="678" key="search.everywhere.popup" timestamp="1592546483838">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2896" y="347" width="672" height="678" key="search.everywhere.popup/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1592546483838" />
+  </component>
+</project>
