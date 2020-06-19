@@ -1,5 +1,6 @@
-#THIS IS SOURCE CODE FOR FINAL EXAM OF DEEP LEARNING COURSE.
-#AUTHOR: Le Hoang Long - Sejong University
+## **THIS IS SOURCE CODE FOR FINAL EXAM OF DEEP LEARNING COURSE.**
+
+### _**AUTHOR: Le Hoang Long - Sejong University**_
 * Install python packages: pip install -r requirement.txt
 * Images object detection:
     * YOLOv2: 
