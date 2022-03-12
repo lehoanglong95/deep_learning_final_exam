@@ -13,7 +13,7 @@ mkl-service==2.3.0
 mxnet==1.6.0
 numpy==1.18.1
 opencv-python==4.2.0.34
-Pillow==7.1.2
+Pillow==9.0.1
 portalocker==1.7.0
 pycparser==2.20
 pyparsing==2.4.7
